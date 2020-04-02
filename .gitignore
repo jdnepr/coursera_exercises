@@ -6,5 +6,5 @@ SharingApp/
 bin/
 .settings/
 .classpath
-.project/
+.project
 module-info*
