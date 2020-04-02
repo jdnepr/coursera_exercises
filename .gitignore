@@ -1,4 +1,5 @@
 # Ignore
-/.idea/
-/out/
+.idea/
+out/
 *.iml 
+SharingApp/
