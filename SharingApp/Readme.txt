@@ -1,1 +1,0 @@
-Open with Android Studio
